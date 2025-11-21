@@ -1,0 +1,204 @@
+{
+    "fashion": {
+        "fall outfits": {
+            "trend": "fall outfits",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 60,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "winter outfits": {
+            "trend": "winter outfits",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 40,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "aesthetic outfits": {
+            "trend": "aesthetic outfits",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 380,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "streetwear": {
+            "trend": "streetwear",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 870,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "derschutze": {
+            "trend": "derschutze",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 110,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "grwm": {
+            "trend": "grwm",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 350,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "capsule wardrobe": {
+            "trend": "capsule wardrobe",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 650,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "dressly reviews": {
+            "trend": "dressly reviews",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 120,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "thanksgiving outfits": {
+            "trend": "thanksgiving outfits",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 50,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "fashion nova": {
+            "trend": "fashion nova",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 40,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        }
+    },
+    "study": {
+        "ai news today": {
+            "trend": "ai news today",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 900,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "places to study near me": {
+            "trend": "places to study near me",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 70,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "lifeat": {
+            "trend": "lifeat",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 50,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "pomodoro": {
+            "trend": "pomodoro",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 1430,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "branzino": {
+            "trend": "branzino",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 300,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "aesthetic notes": {
+            "trend": "aesthetic notes",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 36650,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "nvidia news": {
+            "trend": "nvidia news",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 550,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "nvidia news today": {
+            "trend": "nvidia news today",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 400,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "openai news": {
+            "trend": "openai news",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 350,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "openai news today": {
+            "trend": "openai news today",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 350,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "technology news today": {
+            "trend": "technology news today",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 350,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        },
+        "productivity": {
+            "trend": "productivity",
+            "youtube_views_total": 0,
+            "youtube_count": 0,
+            "google_rise_total": 650,
+            "examples": [],
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0
+        }
+    }
+}

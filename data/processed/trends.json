@@ -1,0 +1,204 @@
+{
+    "fashion": [
+        {
+            "trend": "streetwear",
+            "trend_score": 20.0,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 870,
+            "examples": []
+        },
+        {
+            "trend": "capsule wardrobe",
+            "trend_score": 14.7,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 650,
+            "examples": []
+        },
+        {
+            "trend": "aesthetic outfits",
+            "trend_score": 8.19,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 380,
+            "examples": []
+        },
+        {
+            "trend": "grwm",
+            "trend_score": 7.47,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 350,
+            "examples": []
+        },
+        {
+            "trend": "dressly reviews",
+            "trend_score": 1.93,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 120,
+            "examples": []
+        },
+        {
+            "trend": "derschutze",
+            "trend_score": 1.69,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 110,
+            "examples": []
+        },
+        {
+            "trend": "fall outfits",
+            "trend_score": 0.48,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 60,
+            "examples": []
+        },
+        {
+            "trend": "thanksgiving outfits",
+            "trend_score": 0.24,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 50,
+            "examples": []
+        },
+        {
+            "trend": "winter outfits",
+            "trend_score": 0.0,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 40,
+            "examples": []
+        },
+        {
+            "trend": "fashion nova",
+            "trend_score": 0.0,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 40,
+            "examples": []
+        }
+    ],
+    "study": [
+        {
+            "trend": "aesthetic notes",
+            "trend_score": 20.0,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 36650,
+            "examples": []
+        },
+        {
+            "trend": "pomodoro",
+            "trend_score": 0.75,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 1430,
+            "examples": []
+        },
+        {
+            "trend": "ai news today",
+            "trend_score": 0.46,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 900,
+            "examples": []
+        },
+        {
+            "trend": "productivity",
+            "trend_score": 0.33,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 650,
+            "examples": []
+        },
+        {
+            "trend": "nvidia news",
+            "trend_score": 0.27,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 550,
+            "examples": []
+        },
+        {
+            "trend": "nvidia news today",
+            "trend_score": 0.19,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 400,
+            "examples": []
+        },
+        {
+            "trend": "openai news",
+            "trend_score": 0.16,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 350,
+            "examples": []
+        },
+        {
+            "trend": "openai news today",
+            "trend_score": 0.16,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 350,
+            "examples": []
+        },
+        {
+            "trend": "technology news today",
+            "trend_score": 0.16,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 350,
+            "examples": []
+        },
+        {
+            "trend": "branzino",
+            "trend_score": 0.14,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 300,
+            "examples": []
+        },
+        {
+            "trend": "places to study near me",
+            "trend_score": 0.01,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 70,
+            "examples": []
+        },
+        {
+            "trend": "lifeat",
+            "trend_score": 0.0,
+            "youtube_views_total": 0,
+            "youtube_engagement_avg": 0.0,
+            "youtube_recency_days_avg": 999.0,
+            "google_rise_total": 50,
+            "examples": []
+        }
+    ]
+}
